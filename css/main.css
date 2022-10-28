@@ -256,6 +256,12 @@ h1{
     border-bottom: 20px solid white;
     border-left: 10px solid transparent;
 }
+.last p{
+    color: #2b7264;
+}
+.last a{
+    color: #181e2a;
+}
 
 @media (max-width:375px){
     .items{
